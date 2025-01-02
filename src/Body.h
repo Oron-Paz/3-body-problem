@@ -11,7 +11,7 @@ private:
     sf::Color color;
     // Add trail storage
     std::vector<sf::Vector2f> trail;
-    static const size_t TRAIL_LENGTH = 50;
+    static const size_t TRAIL_LENGTH = 738;
     static float G;
 
 public:
